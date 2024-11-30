@@ -1,0 +1,5 @@
+build/
+render-src/build/
+
+*.bmp
+*.exe
